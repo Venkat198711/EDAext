@@ -1,0 +1,10 @@
+Package: EDAext
+Type: Package
+Title: Extension of EDA process
+Version: 0.1.0
+Author: Venkat raghavan, Abhinav pramudula
+Maintainer: <venkat.raghavan2018@gmail.com>, <abhinavpramudula@gmail.com>
+Description: Improvising the R buil-in function to perform EDA analysis
+License: GL-2
+Encoding: UTF-8
+LazyData: true
